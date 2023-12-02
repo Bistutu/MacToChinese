@@ -1,0 +1,104 @@
+/* Class = "NSMenuItem"; title = "Edit Value…"; ObjectID = "2Ng-MO-QCL"; */
+"2Ng-MO-QCL.title" = "编辑值…";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "2UG-Ug-lXl"; */
+"2UG-Ug-lXl.title" = "复制";
+
+/* Class = "NSMenuItem"; title = "Add Child Key"; ObjectID = "2y0-vc-ycp"; */
+"2y0-vc-ycp.title" = "添加子键";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "BVe-Wt-rF8"; */
+"BVe-Wt-rF8.title" = "删除";
+
+/* Class = "NSMenu"; title = "Add Sibling Key"; ObjectID = "FfZ-UF-f0N"; */
+"FfZ-UF-f0N.title" = "添加同级键";
+
+/* Class = "NSMenuItem"; title = "<<do not localize>>"; ObjectID = "GS9-6M-RsJ"; */
+"GS9-6M-RsJ.title" = "<<请勿本地化>>";
+
+/* Class = "NSMenuItem"; title = "Swift Literal"; ObjectID = "Gv2-bi-9Gg"; */
+"Gv2-bi-9Gg.title" = "Swift 文字";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "PqG-PR-Gcv"; */
+"PqG-PR-Gcv.title" = "复制";
+
+/* Class = "NSMenuItem"; title = "Paste As Child"; ObjectID = "R02-72-tOd"; */
+"R02-72-tOd.title" = "粘贴为子项";
+
+/* Class = "NSMenuItem"; title = "Objective-C Literal"; ObjectID = "TIC-7Z-gi7"; */
+"TIC-7Z-gi7.title" = "Objective-C 文字";
+
+/* Class = "NSMenuItem"; title = "<<do not localize>>"; ObjectID = "Tdb-rn-4nj"; */
+"Tdb-rn-4nj.title" = "<<请勿本地化>>";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Tyq-k2-Jy3"; */
+"Tyq-k2-Jy3.title" = "剪切";
+
+/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "Vkz-03-Q0X"; */
+"Vkz-03-Q0X.headerCell.title" = "键";
+
+/* Class = "NSMenuItem"; title = "Copy As"; ObjectID = "YC9-z5-O7y"; */
+"YC9-z5-O7y.title" = "复制为";
+
+/* Class = "NSMenuItem"; title = "New Child"; ObjectID = "b3c-2o-Yrs"; */
+"b3c-2o-Yrs.title" = "新建子项";
+
+/* Class = "NSMenuItem"; title = "View As"; ObjectID = "d76-tr-O9n"; */
+"d76-tr-O9n.title" = "查看为";
+
+/* Class = "NSMenuItem"; title = "Add Sibling Key"; ObjectID = "ddN-32-2wN"; */
+"ddN-32-2wN.title" = "添加同级键";
+
+/* Class = "NSMenu"; title = "View By Subkey"; ObjectID = "dgH-bz-QpB"; */
+"dgH-bz-QpB.title" = "按子键查看";
+
+/* Class = "NSMenuItem"; title = "<<do not localize>>"; ObjectID = "eGZ-Fz-fTu"; */
+"eGZ-Fz-fTu.title" = "<<请勿本地化>>";
+
+/* Class = "NSMenuItem"; title = "<<do not localize>>"; ObjectID = "eYB-aO-ZTn"; */
+"eYB-aO-ZTn.title" = "<<请勿本地化>>";
+
+/* Class = "NSTableColumn"; headerCell.title = "Class"; ObjectID = "ek1-Ee-wJ3"; */
+"ek1-Ee-wJ3.headerCell.title" = "类";
+
+/* Class = "NSMenu"; title = "View As"; ObjectID = "f3D-K0-gKg"; */
+"f3D-K0-gKg.title" = "查看为";
+
+/* Class = "NSMenuItem"; title = "<<do not localize>>"; ObjectID = "fXJ-Kc-9bM"; */
+"fXJ-Kc-9bM.title" = "<<请勿本地化>>";
+
+/* Class = "NSMenu"; title = "Sort By Subkey"; ObjectID = "hNy-yO-vFe"; */
+"hNy-yO-vFe.title" = "按子键排序";
+
+/* Class = "NSMenuItem"; title = "View By Subkey"; ObjectID = "i5L-c5-T4e"; */
+"i5L-c5-T4e.title" = "按子键查看";
+
+/* Class = "NSMenu"; title = "Copy As"; ObjectID = "j6g-R9-faL"; */
+"j6g-R9-faL.title" = "复制为";
+
+/* Class = "NSMenuItem"; title = "Sort Values"; ObjectID = "kC0-Fm-gVK"; */
+"kC0-Fm-gVK.title" = "排序值";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "nCc-HO-JPN"; */
+"nCc-HO-JPN.title" = "粘贴";
+
+/* Class = "NSMenu"; title = "Add Child Key"; ObjectID = "oD0-8h-O7d"; */
+"oD0-8h-O7d.title" = "添加子键";
+
+/* Class = "NSMenuItem"; title = "New Sibling"; ObjectID = "pK6-1J-Zf7"; */
+"pK6-1J-Zf7.title" = "新建同级项";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "pwg-qs-aoI"; */
+"pwg-qs-aoI.title" = "菜单";
+
+/* Class = "NSMenuItem"; title = "Sort Keys"; ObjectID = "tCg-79-UkC"; */
+"tCg-79-UkC.title" = "排序键";
+
+/* Class = "NSMenuItem"; title = "Sort By Subkey"; ObjectID = "udV-4X-YZc"; */
+"udV-4X-YZc.title" = "按子键排序";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "wGA-l0-HGq"; */
+"wGA-l0-HGq.headerCell.title" = "值";
+
+/* Class = "NSMenuItem"; title = "Set To Default Value"; ObjectID = "yNJ-aD-wls"; */
+"yNJ-aD-wls.title" = "设置为默认值";

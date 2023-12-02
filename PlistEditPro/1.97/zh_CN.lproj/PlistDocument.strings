@@ -1,0 +1,47 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "5"; */
+"5.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "ASCII"; ObjectID = "64"; */
+"64.title" = "ASCII";
+
+/* Class = "NSMenu"; title = "<<do not localize>>"; ObjectID = "65"; */
+"65.title" = "<<请勿本地化>>";
+
+/* Class = "NSMenuItem"; title = "Binary"; ObjectID = "66"; */
+"66.title" = "二进制";
+
+/* Class = "NSMenuItem"; title = "XML"; ObjectID = "67"; */
+"67.title" = "XML";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Automatically update the text whenever a change is made to the outline"; ObjectID = "135"; */
+"135.ibShadowedToolTip" = "每当对大纲进行更改时自动更新文本";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Update the text to reflect the changes made to the outline"; ObjectID = "136"; */
+"136.ibShadowedToolTip" = "更新文本以反映对大纲所做的更改";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Update the outline to reflect the changes made to the text"; ObjectID = "137"; */
+"137.ibShadowedToolTip" = "更新大纲以反映对文本所做的更改";
+
+/* Class = "NSWindow"; title = "Goto"; ObjectID = "177"; */
+"177.title" = "转到";
+
+/* Class = "NSButtonCell"; title = "Automatically sync text"; ObjectID = "277"; */
+"277.title" = "自动同步文本";
+
+/* Class = "NSButtonCell"; title = "Sync text ↓"; ObjectID = "278"; */
+"278.title" = "同步文本 ↓";
+
+/* Class = "NSButtonCell"; title = "Sync outline ↑"; ObjectID = "279"; */
+"279.title" = "同步大纲 ↑";
+
+/* Class = "NSTextFieldCell"; title = "Goto Line #:"; ObjectID = "281"; */
+"281.title" = "转到行号：";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "283"; */
+"283.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "284"; */
+"284.title" = "取消";
+
+/* Class = "NSMenuItem"; title = "JSON"; ObjectID = "328"; */
+"328.title" = "JSON";

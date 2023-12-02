@@ -1,0 +1,11 @@
+/* Class = "NSPopoverTouchBarItem"; collapsedRepresentationLabel = "View As"; ObjectID = "Cfr-uO-0pt"; */
+"Cfr-uO-0pt.collapsedRepresentationLabel" = "查看为";
+
+/* Class = "NSButtonCell"; title = "New Sibling"; ObjectID = "eOr-gu-55S"; */
+"eOr-gu-55S.title" = "新建同级项";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "wme-WX-TDE"; */
+"wme-WX-TDE.title" = "删除";
+
+/* Class = "NSButtonCell"; title = "New Child"; ObjectID = "yvF-Nw-k9m"; */
+"yvF-Nw-k9m.title" = "新建子项";

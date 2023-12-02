@@ -1,0 +1,71 @@
+/* Window title string, with placeholder for the AppName */
+"WindowTitle" = "%@的问题报告";
+
+/* Introduction text, with app name placeholder first and company placeholder second */
+"IntroductionText" = "%@意外退出。您想发送报告以便我们修复问题吗？";
+
+/* Name Text Title */
+"NameTextTitle" = "姓名";
+
+/* Email Text Title */
+"EmailTextTitle" = "电子邮件";
+
+/* Comments Disclosure Text */
+"CommentsDisclosureTitle" = "评论";
+
+/* User description placeholder */
+"UserDescriptionPlaceholder" = "请描述触发问题所需的任何步骤";
+
+/* Problems Details Box  Title */
+"ProblemDetailsTitle" = "问题详情和系统配置";
+
+/* Privacy note text */
+"PrivacyNote" = "只有提供的数据将与此报告一起发送。";
+
+/* Show Details Button */
+"ShowDetailsButtonTitle" = "显示详情";
+
+/* Hide Details Button */
+"HideDetailsButtonTitle" = "隐藏详情";
+
+/* Cancel Button */
+"CancelButtonTitle" = "取消";
+
+/* Send Button */
+"SendButtonTitle" = "发送";
+
+
+/* 反馈用户界面 */
+
+/* Compose view placeholder text */
+"FeedbackComposePlaceHolder" = "您的反馈";
+
+/* Last Update in Status Bar */
+"FeedbackLastUpdate" = "上次更新：";
+
+/* Never in Status Bar */
+"FeedbackLastUpdateNever" = "从不";
+
+/* From text between timestamp and author */
+"FeedbackFrom" = "来自";
+
+/* Send button title */
+"FeedbackSendButton" = "发送";
+
+/* Contact info text */
+"FeedbackContactInfo" = "请提供您的联系信息";
+
+/* Name placeholder text */
+"FeedbackName" = "姓名";
+
+/* Email placeholder text */
+"FeedbackEmail" = "电子邮件";
+
+/* Continue button title */
+"FeedbackContinueButton" = "继续";
+
+/* Attachment context menu action Preview */
+"FeedbackAttachmentMenuPreview" = "预览";
+
+/* Attachment context menu action Remove */
+"FeedbackAttachmentMenuRemove" = "移除";

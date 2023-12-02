@@ -1,0 +1,26 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "45E-Er-QDC"; */
+"45E-Er-QDC.title" = "其他视图";
+
+/* Class = "NSButtonCell"; title = "Indented"; ObjectID = "JAJ-oJ-qpF"; */
+"JAJ-oJ-qpF.title" = "缩进";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "KIE-Yl-zxZ"; */
+"KIE-Yl-zxZ.title" = "项目 3";
+
+/* Class = "NSButtonCell"; title = "Condensed"; ObjectID = "Vt1-vb-Hb7"; */
+"Vt1-vb-Hb7.title" = "紧凑";
+
+/* Class = "NSTextFieldCell"; title = "File Format:"; ObjectID = "mXw-dq-emv"; */
+"mXw-dq-emv.title" = "文件格式:";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "swn-4f-EFu"; */
+"swn-4f-EFu.title" = "单选";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "yaq-eX-yqn"; */
+"yaq-eX-yqn.title" = "项目 2";
+
+/* Class = "NSTextFieldCell"; title = "JSON formatting:"; ObjectID = "zo1-37-dba"; */
+"zo1-37-dba.title" = "JSON 格式:";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "zrt-E7-tpc"; */
+"zrt-E7-tpc.title" = "项目 1";

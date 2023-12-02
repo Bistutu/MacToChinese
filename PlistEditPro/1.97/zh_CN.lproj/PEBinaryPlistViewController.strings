@@ -1,0 +1,23 @@
+/* Class = "NSButtonCell"; title = "Open As Document"; ObjectID = "3ZR-qz-tmk"; */
+"3ZR-qz-tmk.title" = "以文档方式打开";
+
+/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "Mc1-0u-YEj"; */
+"Mc1-0u-YEj.headerCell.title" = "键";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cB9-HB-JY7"; */
+"cB9-HB-JY7.title" = "文本单元";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "dII-Zz-4DX"; */
+"dII-Zz-4DX.title" = "表格视图单元";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "fiM-HY-RvU"; */
+"fiM-HY-RvU.headerCell.title" = "值";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "inu-Mx-hyV"; */
+"inu-Mx-hyV.title" = "文本单元";
+
+/* Class = "NSTextFieldCell"; title = "Binary Plist"; ObjectID = "q20-R7-Mnp"; */
+"q20-R7-Mnp.title" = "二进制属性列表";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "vg1-TK-VWf"; */
+"vg1-TK-VWf.title" = "表格视图单元";
